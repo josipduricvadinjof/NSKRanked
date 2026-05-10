@@ -29,9 +29,9 @@ Podaci se pohranjuju na Google Firebase platformi (EU region).
 ## Brisanje podataka
 
 Za brisanje računa i svih podataka kontaktirajte nas na:
-jduricvadinjof14@gmail.com
+josipduricvadinjof@gmail.com
 
 ## Kontakt
 
 Josip Đurić Vadinjof
-jduricvadinjof14@gmail.com
+josipduricvadinjof@gmail.com
